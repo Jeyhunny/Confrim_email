@@ -1,0 +1,893 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ELearn.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ELearn.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\css\\now-ui-dashboard.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\now-ui-dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\css\\now-ui-dashboard.css.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\now-ui-dashboard.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\css\\now-ui-dashboard.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\now-ui-dashboard.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\demo\\demo.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\demo\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\demo\\demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\demo\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\fonts\\nucleo-license.md",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\nucleo-license.md"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\fonts\\nucleo-outline.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\nucleo-outline.eot"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\fonts\\nucleo-outline.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\nucleo-outline.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\fonts\\nucleo-outline.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\nucleo-outline.woff"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\fonts\\nucleo-outline.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\nucleo-outline.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\img\\bg5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\bg5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\img\\default-avatar.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\default-avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\img\\header.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\img\\mike.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\mike.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\img\\now-logo.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\now-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\img\\now-ui-dashboard.gif",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\now-ui-dashboard.gif"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\js\\core\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\core\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\js\\now-ui-dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\now-ui-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\js\\now-ui-dashboard.js.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\now-ui-dashboard.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\js\\now-ui-dashboard.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\now-ui-dashboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\_alerts.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\_checkboxes-radio.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\_checkboxes-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\_footers.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\_footers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\_images.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\_inputs.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\_nucleo-outline.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\_nucleo-outline.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\_page-header.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\_page-header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\_responsive.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\_sidebar-and-main-panel.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\_sidebar-and-main-panel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\cards\\_card-chart.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\cards\\_card-chart.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\cards\\_card-map.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\cards\\_card-map.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\cards\\_card-plain.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\cards\\_card-plain.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\cards\\_card-user.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\cards\\_card-user.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\mixins\\_inputs.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\mixins\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\mixins\\_page-header.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\mixins\\_page-header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\mixins\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\mixins\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\mixins\\_transparency.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\mixins\\_transparency.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\Admin\\assets\\scss\\now-ui-dashboard\\plugins\\_plugin-perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\now-ui-dashboard\\plugins\\_plugin-perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\07e90123-a5ee-48ca-941c-d7b7d35b0d43 32961e04-0719-4dd5-9617-25c1a53ad2ef course_4.jpg",
+      "PackagePath": "staticwebassets\\images\\07e90123-a5ee-48ca-941c-d7b7d35b0d43 32961e04-0719-4dd5-9617-25c1a53ad2ef course_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\0f719303-6158-423c-92e8-ab1498285026 32961e04-0719-4dd5-9617-25c1a53ad2ef course_4.jpg",
+      "PackagePath": "staticwebassets\\images\\0f719303-6158-423c-92e8-ab1498285026 32961e04-0719-4dd5-9617-25c1a53ad2ef course_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\312778e5-fc66-499e-ac9d-7a44d478ce99 5f8e0be4-32d2-4134-baeb-f75e111d6662_course_1.jpg",
+      "PackagePath": "staticwebassets\\images\\312778e5-fc66-499e-ac9d-7a44d478ce99 5f8e0be4-32d2-4134-baeb-f75e111d6662_course_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\32961e04-0719-4dd5-9617-25c1a53ad2ef course_4.jpg",
+      "PackagePath": "staticwebassets\\images\\32961e04-0719-4dd5-9617-25c1a53ad2ef course_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\37658357-d85b-48c2-af37-e009700fd1f9 about_1 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\37658357-d85b-48c2-af37-e009700fd1f9 about_1 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\37658357-d85b-48c2-af37-e009700fd1f9 about_1.jpg",
+      "PackagePath": "staticwebassets\\images\\37658357-d85b-48c2-af37-e009700fd1f9 about_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\410b9587-f1f3-4375-adee-4642e325fb07 37658357-d85b-48c2-af37-e009700fd1f9 about_1 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\410b9587-f1f3-4375-adee-4642e325fb07 37658357-d85b-48c2-af37-e009700fd1f9 about_1 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\5f8e0be4-32d2-4134-baeb-f75e111d6662_course_1.jpg",
+      "PackagePath": "staticwebassets\\images\\5f8e0be4-32d2-4134-baeb-f75e111d6662_course_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\7900e0eb-04cf-4815-a626-d0db572240b3 37658357-d85b-48c2-af37-e009700fd1f9 about_1.jpg",
+      "PackagePath": "staticwebassets\\images\\7900e0eb-04cf-4815-a626-d0db572240b3 37658357-d85b-48c2-af37-e009700fd1f9 about_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\7c95d5df-b516-4c2e-a1c2-c8e8a0d40dc6 97a4c8e1-e84b-46af-b5d3-c58885e9b276_course_1.jpg",
+      "PackagePath": "staticwebassets\\images\\7c95d5df-b516-4c2e-a1c2-c8e8a0d40dc6 97a4c8e1-e84b-46af-b5d3-c58885e9b276_course_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\9303b4b7-3fdc-410f-a246-e69630314399 0f719303-6158-423c-92e8-ab1498285026 32961e04-0719-4dd5-9617-25c1a53ad2ef course_4.jpg",
+      "PackagePath": "staticwebassets\\images\\9303b4b7-3fdc-410f-a246-e69630314399 0f719303-6158-423c-92e8-ab1498285026 32961e04-0719-4dd5-9617-25c1a53ad2ef course_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\97a4c8e1-e84b-46af-b5d3-c58885e9b276_course_1.jpg",
+      "PackagePath": "staticwebassets\\images\\97a4c8e1-e84b-46af-b5d3-c58885e9b276_course_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\about_1.jpg",
+      "PackagePath": "staticwebassets\\images\\about_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\b76fb9a4-57c6-4ec3-a2c1-3948f20973cb course_3.jpg",
+      "PackagePath": "staticwebassets\\images\\b76fb9a4-57c6-4ec3-a2c1-3948f20973cb course_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\course_1.jpg",
+      "PackagePath": "staticwebassets\\images\\course_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\course_2.jpg",
+      "PackagePath": "staticwebassets\\images\\course_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\course_3.jpg",
+      "PackagePath": "staticwebassets\\images\\course_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\course_4.jpg",
+      "PackagePath": "staticwebassets\\images\\course_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\course_5.jpg",
+      "PackagePath": "staticwebassets\\images\\course_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\course_6.jpg",
+      "PackagePath": "staticwebassets\\images\\course_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\course_7.jpg",
+      "PackagePath": "staticwebassets\\images\\course_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\course_8.jpg",
+      "PackagePath": "staticwebassets\\images\\course_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\course_9.jpg",
+      "PackagePath": "staticwebassets\\images\\course_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\course_author_2.jpg",
+      "PackagePath": "staticwebassets\\images\\course_author_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\course_author_3.jpg",
+      "PackagePath": "staticwebassets\\images\\course_author_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\e3812c3d-0420-42c6-a08e-a51b2cfa9f4f about_1.jpg",
+      "PackagePath": "staticwebassets\\images\\e3812c3d-0420-42c6-a08e-a51b2cfa9f4f about_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\ebe8f7d7-7b7c-40cd-9188-1a681ed32626 germany - Copy.svg",
+      "PackagePath": "staticwebassets\\images\\ebe8f7d7-7b7c-40cd-9188-1a681ed32626 germany - Copy.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\elearn.jpg",
+      "PackagePath": "staticwebassets\\images\\elearn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\f84f1a5f-03e9-4e3c-8a39-886200fcb8ac course_2.jpg",
+      "PackagePath": "staticwebassets\\images\\f84f1a5f-03e9-4e3c-8a39-886200fcb8ac course_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\featured.jpg",
+      "PackagePath": "staticwebassets\\images\\featured.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\featured_author.jpg",
+      "PackagePath": "staticwebassets\\images\\featured_author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\home_logo.png",
+      "PackagePath": "staticwebassets\\images\\home_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\index.jpg",
+      "PackagePath": "staticwebassets\\images\\index.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\milestone_1.svg",
+      "PackagePath": "staticwebassets\\images\\milestone_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\milestone_2.svg",
+      "PackagePath": "staticwebassets\\images\\milestone_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\milestone_3.svg",
+      "PackagePath": "staticwebassets\\images\\milestone_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\milestone_4.svg",
+      "PackagePath": "staticwebassets\\images\\milestone_4.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\news_1.jpg",
+      "PackagePath": "staticwebassets\\images\\news_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\news_2.jpg",
+      "PackagePath": "staticwebassets\\images\\news_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\news_3.jpg",
+      "PackagePath": "staticwebassets\\images\\news_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\news_4.jpg",
+      "PackagePath": "staticwebassets\\images\\news_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\news_5.jpg",
+      "PackagePath": "staticwebassets\\images\\news_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\news_6.jpg",
+      "PackagePath": "staticwebassets\\images\\news_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\news_7.jpg",
+      "PackagePath": "staticwebassets\\images\\news_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\play_big.png",
+      "PackagePath": "staticwebassets\\images\\play_big.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\teacher_1.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\teacher_2.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\teacher_3.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\teacher_4.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\teacher_5.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\images\\teacher_6.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\js\\about.js",
+      "PackagePath": "staticwebassets\\js\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\js\\courses.js",
+      "PackagePath": "staticwebassets\\js\\courses.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\js\\news.js",
+      "PackagePath": "staticwebassets\\js\\news.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\animate.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\plugins\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\greensock\\ScrollToPlugin.min.js",
+      "PackagePath": "staticwebassets\\plugins\\greensock\\ScrollToPlugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\greensock\\TimelineMax.min.js",
+      "PackagePath": "staticwebassets\\plugins\\greensock\\TimelineMax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\greensock\\TweenMax.min.js",
+      "PackagePath": "staticwebassets\\plugins\\greensock\\TweenMax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\greensock\\animation.gsap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\greensock\\animation.gsap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\parallax-js-master\\parallax.min.js",
+      "PackagePath": "staticwebassets\\plugins\\parallax-js-master\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\scrollmagic\\ScrollMagic.min.js",
+      "PackagePath": "staticwebassets\\plugins\\scrollmagic\\ScrollMagic.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\video-js\\Youtube.min.js",
+      "PackagePath": "staticwebassets\\plugins\\video-js\\Youtube.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\video-js\\video-js.css",
+      "PackagePath": "staticwebassets\\plugins\\video-js\\video-js.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\plugins\\video-js\\video.min.js",
+      "PackagePath": "staticwebassets\\plugins\\video-js\\video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\styles\\about.css",
+      "PackagePath": "staticwebassets\\styles\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\styles\\about_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\about_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\styles\\bootstrap4\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\styles\\bootstrap4\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\styles\\bootstrap4\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\styles\\bootstrap4\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\styles\\bootstrap4\\popper.js",
+      "PackagePath": "staticwebassets\\styles\\bootstrap4\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\styles\\contact.css",
+      "PackagePath": "staticwebassets\\styles\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\styles\\contact_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\contact_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\styles\\courses.css",
+      "PackagePath": "staticwebassets\\styles\\courses.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\styles\\courses_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\courses_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\styles\\main_styles.css",
+      "PackagePath": "staticwebassets\\styles\\main_styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\styles\\news.css",
+      "PackagePath": "staticwebassets\\styles\\news.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\styles\\news_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\news_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\styles\\responsive.css",
+      "PackagePath": "staticwebassets\\styles\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Elarnn\\ELearn\\wwwroot\\templates\\verify.html",
+      "PackagePath": "staticwebassets\\templates\\verify.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ELearn.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ELearn.props",
+      "PackagePath": "build\\ELearn.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ELearn.props",
+      "PackagePath": "buildMultiTargeting\\ELearn.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ELearn.props",
+      "PackagePath": "buildTransitive\\ELearn.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

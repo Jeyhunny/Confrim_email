@@ -1,0 +1,60 @@
+﻿@model Course
+@{
+    ViewData["Title"] = "Detail";
+}
+
+
+<div class="container my-5">
+    <div class="card">
+        <h5 class="card-header">Table Basic</h5>
+        <div class="table-responsive text-nowrap">
+            <table class="table">
+                <thead>
+                <tr>
+                <th> Image </th>
+                <th> Name </th>
+                <th> Description </th>
+                <th> Price </th>
+                <th> Sale Count </th>
+                <th> Owner FullName </th>
+                </tr>
+            </thead>
+            <tbody>
+              
+                    <tr>
+                        <td>
+                            <div class="img-detail">
+                                <img class="img-fluid" src="~/images/@Model.CourseImages.FirstOrDefault()?.Image" style="width: 200px; height: 150px"/>
+                            </div>
+
+                        </td>
+                        <td>
+                                    @Model.Name
+                        </td>
+                        <td style="white-space:normal">
+                                    @Model.Description
+                        </td>
+                        <td style="white-space:normal">
+                                    @Model.Price
+                        </td>
+                        <td style="white-space:normal">
+                                    @Model.Sales
+                        </td>
+                        <td style="white-space:normal">
+                                    @Model.Owner.Name
+                        </td>
+
+                    </tr>  
+               
+
+            </tbody>
+            </table>
+        </div>
+
+    </div>
+    <a class="btn btn-info mt-5" asp-action="Index">Back to main page</a>
+
+
+</div>
+
+

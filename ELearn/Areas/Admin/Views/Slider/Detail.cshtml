@@ -1,0 +1,59 @@
+﻿@model Slider
+
+@{
+    ViewData["Title"] = "Detail";
+}
+
+
+<div class="container my-5">
+    <div class="card">
+        <h5 class="card-header">Table Basic</h5>
+        <div class="table-responsive text-nowrap">
+            <table class="table">
+                <thead>
+                <tr>
+                    <th>
+                        Image
+                    </th>
+                    <th>
+                        Icon
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                    <th>
+                        Description
+                    </th>
+
+                </tr>
+            </thead>
+            <tbody>
+               
+                    <tr>
+                        <td class="py-1">
+                            <img src="~/images/@Model.Image" style="width:100px;height:100px" alt="image" />
+                        </td>
+
+                        <td>
+                            <img src="~/images/@Model.Logo" style="width:50px;height:50px" alt="image">
+                        </td>
+                        <td>
+                        @Model.Title
+                        </td>
+                        <td>
+                        @Model.Description
+                        </td>
+                    </tr>
+               
+
+
+            </tbody>
+            </table>
+        </div>
+
+    </div>
+    <a class="btn btn-info mt-5" asp-action="Index">Back</a>
+
+
+</div>
+
